@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #33658A;
+    height: 60px;
+
+    font-size: 20px;
+    padding: 0 40px 0 40px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.link {
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+    margin-right: 100px;
+
+}
+
+.phone {
+    color: #F6AE2D;
+}
